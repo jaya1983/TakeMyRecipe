@@ -137,10 +137,10 @@ Contributions are what make the open source community such an amazing place to l
 <!-- CONTACT -->
 ## Contact
 
-Shital Chaudhary
-Shitalchau10@gmail.com
+Jaya Gudipalli  
+gudipallijaya@gmail.com
 
-Project Link: [https://github.com/schaudhary1/take-my-recipe](https://github.com/schaudhary1/take-my-recipe)
+Project Link: [https://github.com/jaya1983/TakeMyRecipe](https://github.com/jaya1983/TakeMyRecipe)
 
 
 
@@ -148,5 +148,5 @@ Project Link: [https://github.com/schaudhary1/take-my-recipe](https://github.com
 ## Acknowledgements
 
 - [Jaya Gudipalli](https://github.com/jaya1983)
-- [Conner Werth](https://github.com/Connorw2222)
+- [Connor Werth](https://github.com/Connorw2222)
 - [Shital Chaudhary](https://github.com/CHAUDHARYS1)
